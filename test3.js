@@ -7,3 +7,5 @@ if (a > 0) {
 }
 
 console.info(956);
+
+console.info(33);
