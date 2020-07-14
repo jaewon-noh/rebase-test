@@ -6,6 +6,8 @@ for (let j = 0; j < 10; j++) {
     console.log(j);
 }
 
+console.info(b+b);
+
 if (b > 0) {
     console.info(b);
 }
