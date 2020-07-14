@@ -11,3 +11,7 @@ while (t > 0) {
     console.info(t);
     t--;
 }
+
+for (let i = 0; i < 10; i++) {
+    console.log(i);
+}
