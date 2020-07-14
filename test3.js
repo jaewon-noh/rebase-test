@@ -6,4 +6,6 @@ if (a > 0) {
     console.info(a);
 }
 
+console.info(956);
+
 console.info(33);
